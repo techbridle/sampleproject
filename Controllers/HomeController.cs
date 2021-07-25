@@ -20,7 +20,6 @@ namespace SampleProject.Controllers
 
         public IActionResult Index()
         {
-            // hahahaha
             return View();
         }
 
